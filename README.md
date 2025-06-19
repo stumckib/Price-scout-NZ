@@ -1,3 +1,4 @@
+
 # Price Scout NZ
 
 A Flutter app that compares prices across NZ retailers — including location-aware results, stock, shipping, and user-submitted prices.
@@ -14,3 +15,5 @@ A Flutter app that compares prices across NZ retailers — including location-aw
 2. Launch the app with `flutter run`
 
 Backend: Firebase (Firestore)
+
+
